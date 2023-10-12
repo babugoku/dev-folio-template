@@ -1,0 +1,44 @@
+.nav-section .navbar{
+    background: darkcyan;
+    height: 70px;
+}
+.nav-section .navbar .navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: .5px;
+}
+.nav-section .navbar-nav .nav-item{
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.container-sec .container{
+   
+    padding-top: 50px;
+}
+.container-sec .head{
+    color: #37517e;
+    text-align: center;
+}
+.container-sec .container .row{
+    margin-top: 60px;
+    font-size: 17px;
+    letter-spacing: .5px;
+    line-height: 27px;
+}
+.container-sec .container .learn-more{
+    border: 2px solid cornflowerblue;
+    display: inline-block;
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 4px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.container-sec .container .learn-more:hover{
+    text-decoration: none;
+    color: white;
+    background: cornflowerblue;
+}
